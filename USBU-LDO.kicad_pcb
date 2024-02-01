@@ -6,8 +6,8 @@
 
   (paper "A4")
   (title_block
-    (title "USB-LDO-U-0010")
-    (date "2024-01-31")
+    (title "USBU-LDO-0010")
+    (date "2024-02-01")
     (rev "1.0")
     (company "(c) Andriy Golovnya")
   )

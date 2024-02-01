@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (title "USB-LDO-U-0010")
-    (date "2024-01-31")
+    (title "USBU-LDO-0010")
+    (date "2024-02-01")
     (rev "1.0")
     (company "(c) Andriy Golovnya")
   )
@@ -694,7 +694,7 @@
     )
     (pin "1" (uuid 3651783b-ea94-4872-afbe-581d2381963d))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR06") (unit 1)
         )
@@ -719,7 +719,7 @@
     )
     (pin "1" (uuid 12a62f0c-7834-40d9-b3c1-63eecd301afc))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR04") (unit 1)
         )
@@ -744,7 +744,7 @@
     )
     (pin "1" (uuid 423a1740-1432-4dff-affb-888e2a09ba46))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR09") (unit 1)
         )
@@ -770,7 +770,7 @@
     (pin "2" (uuid c23c05af-c87c-434f-bc19-f3e22cb36894))
     (pin "1" (uuid 102267c0-fb0d-4825-8664-dc7bb9d071d9))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "C2") (unit 1)
         )
@@ -795,7 +795,7 @@
     )
     (pin "1" (uuid 89962843-2457-4418-9c59-ff69fecb6c27))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR02") (unit 1)
         )
@@ -820,7 +820,7 @@
     )
     (pin "1" (uuid 84981a34-8729-4d2a-8c0d-c55a7229f180))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR03") (unit 1)
         )
@@ -850,7 +850,7 @@
     (pin "6" (uuid 9cff8047-7df2-43fd-9836-0876b88b8a51))
     (pin "2" (uuid 446ff84b-5ddc-4f72-bd24-4ee09bf55a0a))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "J1") (unit 1)
         )
@@ -875,7 +875,7 @@
     )
     (pin "1" (uuid 063d37b5-53d5-421b-a05f-a4ec3c00a8d8))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR05") (unit 1)
         )
@@ -902,7 +902,7 @@
     (pin "1" (uuid 32375261-5849-4cef-8058-54c27b8b91eb))
     (pin "2" (uuid d9cf85bd-5332-4662-81d0-630bf4e0c921))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "U1") (unit 1)
         )
@@ -931,7 +931,7 @@
     (pin "2" (uuid 5e41ed78-66e2-4b2a-8804-5201a2c9dac3))
     (pin "5" (uuid 4775e8b9-0478-4a73-86f1-95a23b882005))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "J2") (unit 1)
         )
@@ -957,7 +957,7 @@
     (pin "2" (uuid e41b3fa4-9cce-4b8f-8efe-fe5586fb28f5))
     (pin "1" (uuid dbbc130d-b718-4c61-81b4-70ed63a19443))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "D1") (unit 1)
         )
@@ -982,7 +982,7 @@
     )
     (pin "1" (uuid 66456b37-6251-4ec6-916b-01062801ab5b))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR01") (unit 1)
         )
@@ -1007,7 +1007,7 @@
     )
     (pin "1" (uuid ed5561a9-63d0-4579-b259-ab9b00a96e50))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR011") (unit 1)
         )
@@ -1033,7 +1033,7 @@
     (pin "2" (uuid 6734cbab-eaf5-4ed8-b7e9-c79dbf7661dc))
     (pin "1" (uuid f4e1ebaf-5681-4a57-a686-2cc769014fae))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "C1") (unit 1)
         )
@@ -1058,7 +1058,7 @@
     )
     (pin "1" (uuid 7173dc62-83d2-4336-a416-0c730a14d1a4))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR07") (unit 1)
         )
@@ -1083,7 +1083,7 @@
     )
     (pin "1" (uuid 027c3bab-6e8f-4270-86d1-de5f4571cf37))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR08") (unit 1)
         )
@@ -1109,7 +1109,7 @@
     (pin "1" (uuid 65d75862-c3f3-4f10-954c-991207693586))
     (pin "2" (uuid 0a90b394-b5b3-47da-9be3-4cfc27f835cc))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "R1") (unit 1)
         )
@@ -1134,7 +1134,7 @@
     )
     (pin "1" (uuid 045314a7-cfbe-42d0-8757-6d36f361ba31))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR010") (unit 1)
         )
@@ -1159,7 +1159,7 @@
     )
     (pin "1" (uuid e2114b13-762b-4fa5-9b4f-779dd242c8ac))
     (instances
-      (project "USB-LDO-U"
+      (project "USBU-LDO"
         (path "/d5c5ffdd-0789-4403-9797-75c531715feb"
           (reference "#PWR012") (unit 1)
         )
