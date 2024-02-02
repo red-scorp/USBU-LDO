@@ -60,16 +60,7 @@
           "width": 0.2
         }
       ],
-      "drc_exclusions": [
-        "lib_footprint_mismatch|168500000|100000000|5154ac19-b5d0-4bdf-a0f4-a9c1ed7e94f0|00000000-0000-0000-0000-000000000000",
-        "silk_edge_clearance|150000000|103310000|cca74f2f-22e3-4528-a4e4-761fcedf593a|4cf31533-c2c6-4867-b91a-8ea24f89d2c9",
-        "silk_edge_clearance|150000000|95690000|cca74f2f-22e3-4528-a4e4-761fcedf593a|c85dcbe0-75a0-4268-9f18-0f099b67b440",
-        "unconnected_items|151300000|101050000|5972fd11-34ee-403d-bc61-327f8f00e8bd|eb51aebb-fa79-425f-bf92-8a059babfcd6",
-        "unconnected_items|151300000|102875000|eb51aebb-fa79-425f-bf92-8a059babfcd6|6affbe60-256c-461f-beb3-658c13005858",
-        "unconnected_items|151300000|96125000|e36717f0-b63b-4348-ba24-47a4752ab82f|2ffdc727-0ae7-42c8-9998-201001534f1b",
-        "unconnected_items|151300000|98350000|2ffdc727-0ae7-42c8-9998-201001534f1b|5972fd11-34ee-403d-bc61-327f8f00e8bd",
-        "unconnected_items|153875000|97012500|42358080-51e1-4589-a7d7-b463427ab84d|e36717f0-b63b-4348-ba24-47a4752ab82f"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -196,8 +187,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.7,
-          "drill": 0.35
+          "diameter": 0.6,
+          "drill": 0.3
         },
         {
           "diameter": 1.0,
